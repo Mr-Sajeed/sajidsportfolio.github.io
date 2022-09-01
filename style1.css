@@ -489,13 +489,13 @@ footer .fcontents .social a{
 }
 
 /* media query  */
- @media(max-width:1000px){ 
+ @media(max-width:900px){ 
     .navbar{
        display: none;
     } 
    .homecontent .error{
         position: fixed;
-        height: 100vh;
+        height: 140vh;
         width: 100%;
         background-color: black;
         top:0;
