@@ -495,7 +495,7 @@ footer .fcontents .social a{
     } 
    .homecontent .error{
         position: fixed;
-        height: 140vh;
+        height: 100%;
         width: 100%;
         background-color: black;
         top:0;
